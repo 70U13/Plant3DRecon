@@ -1,0 +1,1 @@
+This research explores 3D plant model reconstruction from 2D images by evaluating the image segmentation performance of YOLOv8 and Detectron2. The segmented outputs are processed into point clouds and converted into 3D meshes using the Ball-Pivoting Algorithm (BPA).
