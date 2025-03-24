@@ -23,7 +23,7 @@ cam_calibration_dir_path = os.path.abspath("./GEN_3D_Plants/calibration_images_b
 if not os.path.exists(cam_calibration_dir_path):
     print(f"Error: Calibration directory does not exist! ({cam_calibration_dir_path})")
 
-stereo_images_dir_path = "C:\\Users\\Kaye Louise\\Desktop\\research-3D\\GEN_3D_Plants\\sample_traditional-3"
+stereo_images_dir_path = "C:\\Users\\Kaye Louise\\Desktop\\research-3D\\GEN_3D_Plants\\dataset\\sample_traditional-3"
 
 processed_images_dir_path = "./processed"
 
